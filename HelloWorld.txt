@@ -9,3 +9,4 @@ class PhpJava {
 //\u000A\u002F\u002A
 PhpJava::main();
 //\u000A\u002A\u002F
+//изменение
